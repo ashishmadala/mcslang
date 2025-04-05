@@ -192,7 +192,7 @@ crafted
 ```
 :: Testing output and expressions
 place "=== Starting MCSLang Test ==="
-place "Basic math: " + (5 + 10)
+place "Basic math: " + 5 + 10
 
 :: Variables
 block username = "Alex"
